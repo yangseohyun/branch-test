@@ -1,7 +1,6 @@
-hotfix my solution
-Hotfix team's solution
->>>>>>> origin/master
-issue edition
-third edition
-second edition
 first edition
+second edition
+third edition
+issue edition
+Hotfix team's solution
+New function added
