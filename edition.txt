@@ -1,4 +1,6 @@
 hotfix my solution
+Hotfix team's solution
+>>>>>>> origin/master
 issue edition
 third edition
 second edition
