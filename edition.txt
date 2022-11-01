@@ -4,3 +4,4 @@ third edition
 issue edition
 Hotfix team's solution
 New function added
+Team upgraded
